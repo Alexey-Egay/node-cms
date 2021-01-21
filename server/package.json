@@ -62,7 +62,7 @@
     "rs": "0.0.2",
     "sass-loader": "^6.0.2",
     "slug": "^0.9.1",
-    "socket.io": "~1.7.3",
+    "socket.io": "~2.4.0",
     "style-loader": "^0.13.0",
     "universal-analytics": "^0.4.13"
   },
